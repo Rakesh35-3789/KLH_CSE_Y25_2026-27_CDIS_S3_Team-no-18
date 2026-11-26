@@ -30,6 +30,6 @@ Containerized using **Docker** and provisioned automatically on **Amazon Web Ser
 
 ## Guide Details
 - **Guide Name:** [Dr.S.Vinay kumar]
-- **Designation:** [Dr.V.Sireesha]
+- **Designation:** [Associate Professor Dr.V.Sireesha]
 - **Department:** Department of Computer Science and Engineering
 - **Institution:** KL University Hyderabad (KLH)
